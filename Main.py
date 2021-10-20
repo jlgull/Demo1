@@ -16,5 +16,5 @@ print_stuff() # we call print_stuff and the program execution goes to (***)
 
 print(y) # works fine
 
-print (z) # NameError!!!
+print(z) # NameError!!!
 
