@@ -1,6 +1,6 @@
 # demo.py file from Learn PyCharm
-message = 'GIEWIVrGMTLIVrHIQS'  # Encrypted message
-LETTERS = 'ABCDEFGHIJKLMNOPQUSTUVWXYZ'
+message = 'GIEWIrGMTLIVrHIQS'  # Encrypted message
+LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 for key in range(len(LETTERS)):
     translated = ''
     for symbol in message:
